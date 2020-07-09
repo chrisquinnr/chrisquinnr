@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi I'm Chris
+
+I'm the CTO @landmrk where we're building awesome location based web experiences for global brands and music artists. 
 
 <!--
-**chrisquinnr/chrisquinnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**chrisquinnr/chrisquinnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
