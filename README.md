@@ -1,6 +1,6 @@
 ### Hi I'm Chris
 
-I'm the CTO @landmrk where we're building awesome location based web experiences for global brands and music artists. 
+I'm Principal Engineeer @cogsyapp, builder of web things and co-host of the [Salted Bytes](https://saltedbytes.rocks/) podcast.
 
 <!--
 **chrisquinnr/chrisquinnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
